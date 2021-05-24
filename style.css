@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+   text-align:center ;
+}
+header{
+    background:#61f1bd   ;
+}
+footer{
+     background:#61f1bd ;
+}
+.link{
+   margin :30px ;
+}
